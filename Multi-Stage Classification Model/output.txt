@@ -1,0 +1,47 @@
+Dataset: Bunch, Features: 64, Classes: 10
+
+--- Training SVM+FFNN Pipeline (Target = 0) ---
+Test Accuracy: 85.56%
+
+--- Training SVM+FFNN Pipeline (Target = 1) ---
+Test Accuracy: 83.06%
+
+--- Training SVM+FFNN Pipeline (Target = 2) ---
+Test Accuracy: 87.22%
+
+--- Training SVM+FFNN Pipeline (Target = 3) ---
+Test Accuracy: 88.33%
+
+--- Training SVM+FFNN Pipeline (Target = 4) ---
+Test Accuracy: 84.17%
+
+--- Training SVM+FFNN Pipeline (Target = 5) ---
+Test Accuracy: 85.56%
+
+--- Training SVM+FFNN Pipeline (Target = 6) ---
+Test Accuracy: 84.44%
+
+--- Training SVM+FFNN Pipeline (Target = 7) ---
+Test Accuracy: 83.61%
+
+--- Training SVM+FFNN Pipeline (Target = 8) ---
+Test Accuracy: 81.39%
+
+--- Training SVM+FFNN Pipeline (Target = 9) ---
+Test Accuracy: 86.94%
+
+--- Training Standard FFNN ---
+Standard NN Test Accuracy: 83.61%
+
+=== Summary of Accuracies ===
+Pipeline (SVM target 0): 85.56%
+Pipeline (SVM target 1): 83.06%
+Pipeline (SVM target 2): 87.22%
+Pipeline (SVM target 3): 88.33%
+Pipeline (SVM target 4): 84.17%
+Pipeline (SVM target 5): 85.56%
+Pipeline (SVM target 6): 84.44%
+Pipeline (SVM target 7): 83.61%
+Pipeline (SVM target 8): 81.39%
+Pipeline (SVM target 9): 86.94%
+Standard NN: 83.61%
